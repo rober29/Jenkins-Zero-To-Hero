@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: rober29/javamvn:17
+        image: rober29/javamvn:18
         ports:
         - containerPort: 8080
