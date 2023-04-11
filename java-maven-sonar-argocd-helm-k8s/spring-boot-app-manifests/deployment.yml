@@ -18,4 +18,4 @@ spec:
       - name: spring-boot-app
         image: rober22/javamvn:2
         ports:
-        - containerPort: 2020
+        - containerPort: 8080
